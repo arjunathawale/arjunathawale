@@ -5,7 +5,6 @@ I'm a passionate software developer with experience in backend and frontend deve
 ## 🔧 Tech Stack
 - **Languages:**
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white&color=f7df1e)
-  ![TypeScript](https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg)
 
 - **Backend:**
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
