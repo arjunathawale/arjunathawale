@@ -3,23 +3,33 @@
 I'm a passionate software developer with experience in backend and frontend development, focusing on building efficient and scalable solutions. With a solid foundation in both JavaScript and TypeScript, I've developed numerous projects using a variety of tools, databases, and frameworks. I'm currently delving into Kafka for handling large datasets and continuously honing my skills in cloud and DevOps.
 
 ## 🔧 Tech Stack
-- **Languages:** JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Databases:** MySQL, MongoDB, Redis, PostgreSQL
-- **ORMs:** Prisma
-- **DevOps & Tools:** Docker, Git, AWS, CI/CD, Jenkins
-- **Frontend:** React.js
+- **Languages:**
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 📂 Notable Projects
-- **[Clinic Patient Management App](https://github.com/[YourUsername]/clinic-management)**: A React Native and Node.js app for managing daily patient entries, tracking dues, and generating doctor reports.
-- **[WhatsUp India Bulk Messaging System](https://github.com/[YourUsername]/whatsapp-messaging)**: A scalable bulk messaging and chatbot solution using the WhatsApp Cloud API, integrated with Redis and BullMQ for optimized message queuing.
-- **[Microservices Project](https://github.com/[YourUsername]/microservices)**: Microservices architecture using Node.js, MongoDB, and Docker to manage users, products, orders, and notifications in a modular setup.
+- **Backend:**
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![RESTful API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge&logo=api&logoColor=white)
 
-## 🛠️ Skills in Action
-- **Optimized** message processing by 30% using Redis and BullMQ, reducing resource usage and enhancing fault tolerance.
-- **Enhanced** app speed with debouncing, lazy loading, and code splitting in React projects.
-- **Developed** a referral network system with Prisma for multi-level customer sponsorship.
-- **Built** secure and responsive components using React and Tailwind CSS, ensuring cross-browser compatibility.
+- **Databases:**
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **ORMs:**
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+- **DevOps & Tools:**
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-3DDC84?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+- **Frontend:**
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 🌱 Currently Learning
 - Kafka for large data processing and integration in Node.js.
