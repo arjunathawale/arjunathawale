@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">I'm a passionate software developer with experience in backend and frontend development, focusing on building efficient and scalable solutions. With a solid foundation in both JavaScript and TypeScript, I've developed numerous projects using a variety of tools, databases, and frameworks. I'm currently delving into Kafka for handling large datasets and continuously honing my skills in cloud and DevOps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunathawale&label=Profile%20views&color=0e75b6&style=flat" alt="arjunathawale" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunathawale" alt="arjunathawale" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/arjun-athawale-6b808a1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/arjun-athawale-6b808a1a9" height="30" width="40" /></a>
